@@ -1,11 +1,1 @@
-test test2 yeah!!!
-sbsbsbsb
-asdasdssad
-asdaasdads
-asdasdsadasdassd
-dev~~~~
-<<<<<<< HEAD
-master
-=======
-master
->>>>>>> feature1
+你好傻逼
